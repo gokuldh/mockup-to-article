@@ -5,5 +5,17 @@ You've learned a lot about web development so far. I want you to take a moment t
   * How have you used the problem solving strategies from the first project to overcome challenges so far?
 
 ---
+New Skills Learned
+  * How a Web Page Works.
+  * How Formatting Effects the Visual Appearance of a Web Page.
+  * How to Research Tags on Google.
+  * Basic Syntaxes of HTML.
 
-Your response goes here!
+What Has Been Easy
+  * Understanding what is Required to Finish the Project
+  * What Things to Research by Viewing the MockUp.
+
+What Has Been Difficult
+  * Nothing Much
+
+Yes, the Strategy to Not Loose Heart & Research from Scratch if i Have to Worked Very Well.
